@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-oplata-po-sms.github.io
+Sitemap: https://kazino-oplata-po-sms.github.io/sitemap.xml
